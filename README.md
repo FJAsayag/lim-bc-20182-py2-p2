@@ -104,7 +104,12 @@ npm install -g eslint
     }
 
     ````
- ```bash
-npm run test -- --watchALL
-npm run test -- --watch
-```
+
+## Recuerda
+
+- Clona el repositorio
+- Instala las dependencias del proyecto
+
+```bash
+npm install
+````
