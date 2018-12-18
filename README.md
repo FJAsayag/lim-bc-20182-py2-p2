@@ -111,5 +111,7 @@ npm install -g eslint
 - Instala las dependencias del proyecto
 
 ```bash
+
 npm install
+
 ````
